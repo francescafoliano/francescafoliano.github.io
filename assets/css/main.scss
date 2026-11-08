@@ -36,3 +36,6 @@
     "layout/archive",
     "layout/sidebar"
 ;
+@media screen and (min-width: 1024px) {
+  .sidebar { bottom: 6em; }
+}
