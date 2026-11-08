@@ -13,7 +13,7 @@ author_profile: true
 
 4. **Moving to Different Opportunities? Gender Differences in Earnings Trajectories after Residential Mobility**. [Paper](https://www.dropbox.com/scl/fi/v2z9bgk0r6g1f7tc540vg/Moving_to_different_opportunities____Urbino.pdf?rlkey=1l534s4ouyo15a89y9h1oxdh2&dl=0)
 
-5. **The effect of austerity on educational attainment** (with Gustave Kenedi, Sandra McNally and Olmo Silva).
+5. **The effect of austerity on educational attainment** (with Olmo Silva).
 
 6. **Academies and competition in local education markets** (with Olmo Silva).
 
