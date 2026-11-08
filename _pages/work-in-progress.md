@@ -5,7 +5,7 @@ permalink: /work-in-progress/
 author_profile: true
 ---
 
-1. **Working from Home and the Fragmentation of Work: Evidence on Task Allocation and Productivity** (with Rebecca Riley and Valentina Tonei). [Paper](https://drive.google.com/file/d/1_1lgc9XBlcdaWuwlRCFrk4Q9XJ76lx5g/view?usp=drive_link)
+1. **Working from Home and the Fragmentation of Work: Evidence on Task Allocation and Productivity** (with Rebecca Riley and Valentina Tonei). [Slides](/files/WFH_fragmentation_slides.pdf)
 
 2. **Perseverance in the classroom: results from a randomised educational intervention in primary schools in England** (with Sherria Hoskins and Heather Rolfe). Submitted. [Paper](https://swoba.hhs.se/hastel/abs/hastel2026_005.htm) · [FT coverage](https://www.ft.com/content/ad92da03-04e0-4320-97ba-00d448f344b0)
 
