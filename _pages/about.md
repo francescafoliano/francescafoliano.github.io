@@ -25,7 +25,7 @@ Profiles: [ESCoE](https://www.escoe.ac.uk/people/francesca-foliano/) · [CV](/fi
 
 ## News and talks
 
-- *Working from Home and the Fragmentation of Work: Evidence on Task Allocation* (with Valentina Tonei). Conference on Remote Work, Stanford, 28–30 October 2026. [Paper](https://drive.google.com/file/d/1_1lgc9XBlcdaWuwlRCFrk4Q9XJ76lx5g/view?usp=drive_link)
+- *Working from Home and the Fragmentation of Work: Evidence on Task Allocation* (with Valentina Tonei). Conference on Remote Work, Stanford, 28–30 October 2026. [Slides](/files/WFH_fragmentation_slides.pdf)
 - "What Explains the Gender Wage Gap?" Workshop on The Gender Pay Gap: Flexible Work, Discrimination, and Technology, LSE.
 - *Moving to Different Opportunities? Gender Differences in Earnings Trajectories after Residential Mobility*. Workshop "Skills and Demographic Transitions", Urbino, 19–20 September 2025.
 - *The Changing Nature of Work: What can we learn from Time Use Diaries?* Conference on Remote Work, Stanford, 22–24 October 2025; ESCoE seminar, 15 January 2026.
