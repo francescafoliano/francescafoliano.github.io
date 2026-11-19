@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications
 
-1. **The Changing Nature of Work: What can we learn from Time Use Diaries?** (with Lynsey Brown and Rebecca Riley). Forthcoming in *The Changing Nature of Work* (NBER/CRIW), eds. S. N. Houseman, A. E. Polivka and A. Şahin. [Paper](/files/NBER_time_use_17_Nov_2026.pdf) [Replication code](https://github.com/francescafoliano/time-use-wfh-replication)
+1. **The Changing Nature of Work: What can we learn from Time Use Diaries?** (with Lynsey Brown and Rebecca Riley). Forthcoming in *The Changing Nature of Work* (NBER/CRIW), eds. S. N. Houseman, A. E. Polivka and A. Şahin. [Paper](/files/NBER_time_use_17_Nov_2026.pdf) [Replication code](https://github.com/francescafoliano/time-use-nber)
 
 2. **Not Just a North-South Divide: The Geography of Opportunity in England** (with P. Carneiro, S. Krutikova, J. Loh and L. Macmillan). *Fiscal Studies*, 2025. [Article](https://onlinelibrary.wiley.com/doi/10.1111/1475-5890.70012) · [FT coverage](https://www.ft.com/content/91def526-e08f-4f00-8335-7c16a6873910)
 
