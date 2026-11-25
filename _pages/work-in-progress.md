@@ -5,8 +5,7 @@ permalink: /work-in-progress/
 author_profile: true
 ---
 1. **Working from Home and Children’s Development: Evidence from the UK**.
-2. **Working from Home and the Fragmentation of Work: Evidence on Task Allocation and Productivity** (with Rebecca Riley and Valentina Tonei). [Slides](/files/WFH_fragmentation_slides.pdf)
-
+2. **Working from Home and the Fragmentation of Work: Evidence on Task Allocation and Productivity** (with Rebecca Riley and Valentina Tonei). [Slides](/files/Working_from_Home.pdf)
 3. **Perseverance in the classroom: results from a randomised educational intervention in primary schools in England** (with Sherria Hoskins and Heather Rolfe). Submitted. [Paper](https://swoba.hhs.se/hastel/abs/hastel2026_005.htm) · [FT coverage](https://www.ft.com/content/ad92da03-04e0-4320-97ba-00d448f344b0)
 
 4. **Global Competition, UK Labour Market Adjustment and the Brexit Vote** (with Rebecca Riley). [Paper](https://www.dropbox.com/scl/fi/ipysie0114fg690ed7k6r/IFSFeb24.pdf?rlkey=jpabz67va5tnebvcy795djdju&dl=0) · [The Times coverage](https://www.thetimes.co.uk/article/globalisation-not-to-blame-for-brexit-kvkbl07ms)
